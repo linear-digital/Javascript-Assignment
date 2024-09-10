@@ -91,6 +91,6 @@ function waitingTime(arrayInput, serial) {
     }
 }
 
-const result = waitingTime([3, 5, 7, 11, 6 ], 10)
+// const result = waitingTime([3, 5, 7, 11, 6 ], 10)
 
-console.log(result);
+// console.log(result);
